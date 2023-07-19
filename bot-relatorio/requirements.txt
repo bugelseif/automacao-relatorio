@@ -1,0 +1,10 @@
+botcity-framework-core>=1.0.0,<2.0
+botcity-maestro-sdk>=0.3.3,<1.0
+# Uncomment to use botcity-utils
+# botcity-utils>=0.1.2
+
+# Uncomment to use botcity-crawler-plugin
+botcity-files-plugin
+
+# Uncomment to use Pandas
+pandas
