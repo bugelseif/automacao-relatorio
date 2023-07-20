@@ -2,5 +2,26 @@
 
 ![Capa da palestra: Primeiros passos com Python RPA - project](img/capa.png)
 
-## Descrição
-Passo a passo do desenvolvimento de uma automação simples, capturando nomes de arquivos `.txt` e colocando-os em um arquivo `.csv`.
+### Descrição
+Desenvolvimento de uma automação simples, capturando nomes de arquivos `.txt` e colocando-os em um arquivo `.csv`.
+
+---
+---
+## Crie a sua solução!
+
+![Capa da palestra: Primeiros passos com Python RPA - project](img/desafio.png)
+
+
+### Use a criatividade!
+- otimizar
+- modificar parcialmente
+- modificar totalmente
+- usar outras funções
+- usar outras bibliotecas
+- adicionar outros passos
+  
+  
+### Quer compartilhar?
+Compartilhe sua solução com a comunidade no nosso [BotRepository](https://repository.botcity.dev/)!
+
+![BotRepository](https://repository.botcity.dev/images/logo.png)
